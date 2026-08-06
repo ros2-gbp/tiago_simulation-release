@@ -2,6 +2,17 @@
 Changelog for package tiago_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.12.0 (2026-07-17)
+-------------------
+* start apps using localization manager
+* Contributors: antoniobrandi
+
+4.11.0 (2026-06-02)
+-------------------
+* stores_server log level
+* separate advanced docking
+* Contributors: antoniobrandi
+
 4.10.1 (2026-02-10)
 -------------------
 * formatting problem
