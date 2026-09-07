@@ -2,6 +2,11 @@
 Changelog for package tiago_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.13.0 (2026-08-24)
+-------------------
+* added pal_configuration_manager
+* Contributors: antoniobrandi
+
 4.12.0 (2026-07-17)
 -------------------
 * start apps using localization manager
